@@ -1,0 +1,19 @@
+# US 8,456,765 Example 1
+#
+# Patent: US008456765
+# Converted from photonstophotos.net Optical Bench data
+# 8 surfaces, 5 glass elements
+
+name: US 8,456,765 Example 1
+focal_length: inf
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  -111.3910      2.3000       1.88300  40.80    54.800    1
+  98.7940        6.0000       1.00000  0.00     49.820    0
+  -186.4200      2.1180       1.64000  60.20    48.700    1
+  66.2070        7.3620       1.84700  23.78    46.800    1
+  -301.0570      18.0000      1.00000  0.00     46.600    0
+  329.9610       5.8660       1.69600  55.50    31.500    1
+  -37.2670       2.0500       1.76200  26.60    30.700    1
+  -86.1050       40.8000      1.00000  0.00     26.900    0

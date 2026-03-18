@@ -1,0 +1,21 @@
+# Ricoh smc Pentax-M 40mm F2.8
+#
+# Patent: US004154509
+# Converted from photonstophotos.net Optical Bench data
+# 10 surfaces, 5 glass elements, f/2.8
+
+name: Ricoh smc Pentax-M 40mm F2.8
+focal_length: 40.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  30.6280        4.0640       1.88300  41.00    14.970    1
+  -121.3600      2.6960       1.00000  0.00     14.970    0
+  -21.5280       1.6360       1.68893  31.10    13.370    1
+  35.2240        1.2860       1.00000  0.00     13.370    0
+  stop           1.2860       1.00000  0.00     12.542    0
+  -25.7800       0.9640       1.69895  30.10    13.570    1
+  170.1960       2.8880       1.81600  46.80    14.370    1
+  -20.2760       0.0960       1.00000  0.00     14.370    0
+  -85.0280       1.7320       1.80400  46.60    16.260    1
+  -27.5440       36.7600      1.00000  0.00     16.260    0

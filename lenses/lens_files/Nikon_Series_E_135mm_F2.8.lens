@@ -1,0 +1,20 @@
+# Nikon Series E 135mm f/2.8
+#
+# Patent: US004303314
+# Converted from photonstophotos.net Optical Bench data
+# 9 surfaces, 4 glass elements, f/2.8
+
+name: Nikon Series E 135mm f/2.8
+focal_length: 135.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  57.5010        6.7500       1.62041  58.60    49.340    1
+  506.1270       1.3000       1.00000  0.00     49.340    0
+  40.5000        13.2000      1.62041  58.60    44.880    1
+  97.8840        2.4000       1.00000  0.00     37.460    0
+  201.8340       7.5010       1.71736  29.50    38.240    1
+  26.5190        16.0000      1.00000  0.00     29.580    0
+  stop           17.4500      1.00000  0.00     25.332    0
+  95.8000        2.6000       1.78470  26.10    27.860    1
+  252.7560       49.1200      1.00000  0.00     27.860    0

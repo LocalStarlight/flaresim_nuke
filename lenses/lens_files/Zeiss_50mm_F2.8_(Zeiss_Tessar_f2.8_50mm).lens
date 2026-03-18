@@ -1,0 +1,19 @@
+# Zeiss Tessar f2.8 50mm
+#
+# Patent: FR1066698
+# Converted from photonstophotos.net Optical Bench data
+# 8 surfaces, 4 glass elements, f/2.8
+
+name: Zeiss Tessar f2.8 50mm
+focal_length: 50.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  19.6550        5.1500       1.67786  55.50    19.770    1
+  0              3.0500       1.00000  0.00     19.770    0
+  -35.5200       1.4500       1.61200  37.20    17.380    1
+  16.8175        2.4450       1.00000  0.00     14.450    0
+  stop           1.2800       1.00000  0.00     14.374    0
+  381.7750       1.1950       1.57380  42.50    16.580    1
+  16.4835        5.0000       1.66080  50.80    17.320    1
+  -24.5230       0.0000       1.00000  0.00     17.320    0

@@ -1,0 +1,19 @@
+# Leica Telyt 400mm F5 (Wetzlar 1957)
+#
+# Patent: DE01018236
+# Converted from photonstophotos.net Optical Bench data
+# 8 surfaces, 4 glass elements, f/5.0
+
+name: Leica Telyt 400mm F5 (Wetzlar 1957)
+focal_length: 400.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  119.0000       11.7000      1.56870  63.10    83.000    1
+  -309.8000      29.3000      1.00000  0.00     83.000    0
+  -160.9000      5.9000       1.72830  28.30    64.340    1
+  1148.7000      92.2000      1.00000  0.00     68.970    0
+  stop           10.2000      1.00000  0.00     42.492    0
+  57.6500        8.3000       1.58270  46.50    43.790    1
+  -1443.0000     3.9000       1.51480  60.60    43.790    1
+  44.0600        175.6800     1.00000  0.00     40.820    0

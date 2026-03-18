@@ -1,0 +1,12 @@
+# Ricoh smc Pentax-A 15mm F3.5
+#
+# Patent: US003864026
+# Converted from photonstophotos.net Optical Bench data
+# 1 surfaces, 0 glass elements, f/3.5
+
+name: Ricoh smc Pentax-A 15mm F3.5
+focal_length: 15.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  40.5150        1.0200       1.00000  0.00     16.440    0

@@ -1,0 +1,21 @@
+# Olympus 135mm f3.5 E Zuiko Auto-T
+#
+# Patent: US003838911
+# Converted from photonstophotos.net Optical Bench data
+# 10 surfaces, 5 glass elements, f/3.5
+
+name: Olympus 135mm f3.5 E Zuiko Auto-T
+focal_length: 135.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  61.1510        5.9400       1.62041  60.20    42.860    1
+  479.8630       5.9800       1.00000  0.00     42.860    0
+  39.2890        7.0100       1.48749  69.80    37.260    1
+  0              2.3900       1.76182  26.50    37.260    1
+  101.1020       16.5400      1.00000  0.00     30.980    0
+  stop           3.5900       1.00000  0.00     22.078    0
+  106.9980       2.4200       1.66998  39.30    23.480    1
+  23.8550        19.8500      1.00000  0.00     20.460    0
+  45.8270        3.4000       1.80518  25.40    27.020    1
+  84.2320        50.4600      1.00000  0.00     27.020    0

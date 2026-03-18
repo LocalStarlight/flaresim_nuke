@@ -1,0 +1,22 @@
+# Metabones M43 Speed Booster 0.71x
+#
+# Patent: US008879901
+# Converted from photonstophotos.net Optical Bench data
+# 11 surfaces, 5 glass elements, f/0.9
+
+name: Metabones M43 Speed Booster 0.71x
+focal_length: 90.60
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  0              35.0000      1.00000  0.00     88.600    0
+  -157.2460      1.3000       1.48749  70.24    32.500    1
+  740.4740       0.2500       1.00000  0.00     31.200    0
+  19.9180        5.6050       1.80400  46.57    28.000    1
+  36.4890        0.5740       1.00000  0.00     27.259    0
+  45.9750        1.0000       1.71736  29.52    27.259    1
+  16.3960        2.9510       1.00000  0.00     23.384    0
+  33.8610        3.2270       1.72916  54.68    23.500    1
+  0              8.0000       1.00000  0.00     23.500    0
+  0              4.0000       1.51742  52.43    24.000    1
+  0              3.0000       1.00000  0.00     24.000    0

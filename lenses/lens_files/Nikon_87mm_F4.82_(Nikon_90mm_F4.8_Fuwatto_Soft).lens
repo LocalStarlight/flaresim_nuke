@@ -1,0 +1,15 @@
+# Nikon 90mm f/4.8 Fuwatto Soft
+#
+# Patent: US005796530
+# Converted from photonstophotos.net Optical Bench data
+# 4 surfaces, 2 glass elements, f/4.8
+
+name: Nikon 90mm f/4.8 Fuwatto Soft
+focal_length: 87.04
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  stop           20.0000      1.00000  0.00     18.060    0
+  -225.1020      1.4000       1.90265  35.72    28.480    1
+  110.2127       5.6000       1.59319  67.87    28.480    1
+  -33.2614       89.3880      1.00000  0.00     28.480    0

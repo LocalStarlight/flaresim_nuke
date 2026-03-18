@@ -1,0 +1,18 @@
+# Rodenstock Geronar 210mm f6.8
+#
+# Patent: DE02818394
+# Converted from photonstophotos.net Optical Bench data
+# 7 surfaces, 3 glass elements, f/6.8
+
+name: Rodenstock Geronar 210mm f6.8
+focal_length: 210.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  33.2900        5.2500       1.62290  60.07    30.900    1
+  -1030.2800     3.4000       1.00000  0.00     30.360    0
+  -151.4100      0.8000       1.55100  45.47    29.900    1
+  30.5300        5.5500       1.00000  0.00     26.950    0
+  stop           4.8100       1.00000  0.00     26.676    0
+  377.5800       8.1100       1.51870  63.96    39.200    1
+  -141.3900      177.9500     1.00000  0.00     40.800    0

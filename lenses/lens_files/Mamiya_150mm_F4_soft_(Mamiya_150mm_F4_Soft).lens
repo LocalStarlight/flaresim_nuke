@@ -1,0 +1,20 @@
+# Mamiya 150mm f/4 Soft
+#
+# Patent: JP1977-141223
+# Converted from photonstophotos.net Optical Bench data
+# 9 surfaces, 5 glass elements, f/4.0
+
+name: Mamiya 150mm f/4 Soft
+focal_length: 150.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  51.7200        13.8150      1.69350  53.30    46.580    1
+  -51.7200       4.9350       1.60311  60.70    46.580    1
+  219.2900       6.4650       1.00000  0.00     46.580    0
+  -82.2000       2.7600       1.67270  32.10    32.500    1
+  49.1700        7.9350       1.00000  0.00     32.500    0
+  stop           3.3900       1.00000  0.00     29.625    0
+  186.9200       14.2650      1.73400  51.50    30.410    1
+  -17.5100       5.3250       1.72000  50.20    30.410    1
+  -85.1700       120.4800     1.00000  0.00     38.900    0

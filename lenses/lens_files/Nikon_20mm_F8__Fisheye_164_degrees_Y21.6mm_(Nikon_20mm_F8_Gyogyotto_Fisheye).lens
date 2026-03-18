@@ -1,0 +1,17 @@
+# Nikon 20mm f/8 Gyogyotto Fisheye
+#
+# Patent: US005949588
+# Converted from photonstophotos.net Optical Bench data
+# 6 surfaces, 3 glass elements, f/8.2
+
+name: Nikon 20mm f/8 Gyogyotto Fisheye
+focal_length: 19.69
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  0              2.9591       1.62041  60.14    61.490    1
+  20.0166        49.3560      1.00000  0.00     36.860    0
+  21.6932        13.7733      1.80518  25.35    12.430    1
+  9.7099         3.4523       1.67025  57.53    12.430    1
+  -81.0153       0.0000       1.00000  0.00     4.760     0
+  stop           38.9606      1.00000  0.00     4.736     0

@@ -1,0 +1,14 @@
+# Canon 500D (52mm)
+#
+# Patent: JP1995-318802
+# Converted from photonstophotos.net Optical Bench data
+# 3 surfaces, 2 glass elements
+
+name: Canon 500D (52mm)
+focal_length: 500.37
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  269.5000       3.4000       1.60311  60.70    52.770    1
+  -269.5000      2.6000       1.63980  34.50    52.770    1
+  6108.4630      496.3300     1.00000  0.00     52.770    0

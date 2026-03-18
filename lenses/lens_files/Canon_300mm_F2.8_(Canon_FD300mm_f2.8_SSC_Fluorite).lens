@@ -1,0 +1,21 @@
+# Canon FD300mm f2.8 SSC Fluorite
+#
+# Patent: US003868174
+# Converted from photonstophotos.net Optical Bench data
+# 10 surfaces, 5 glass elements, f/2.8
+
+name: Canon FD300mm f2.8 SSC Fluorite
+focal_length: 300.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  121.7580       22.4934      1.43387  95.10    107.200   1
+  -192.7860      15.1896      1.00000  0.00     107.200   0
+  -144.6156      5.3787       1.78590  44.20    95.810    1
+  808.3908       10.4040      1.00000  0.00     95.810    0
+  114.2982       16.7088      1.48749  70.10    95.210    1
+  -524.3616      93.3017      1.00000  0.00     95.210    0
+  stop           30.1000      1.00000  0.00     42.188    0
+  -47.8584       2.0808       1.51633  64.10    27.180    1
+  -189.3528      3.7452       1.72151  29.20    27.180    1
+  -104.4663      71.1900      1.00000  0.00     27.180    0

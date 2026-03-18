@@ -1,0 +1,20 @@
+# Nikon AF-S Teleconverter TC800-1.25E ED
+#
+# Patent: JP2013-250290
+# Converted from photonstophotos.net Optical Bench data
+# 9 surfaces, 5 glass elements
+
+name: Nikon AF-S Teleconverter TC800-1.25E ED
+focal_length: 50.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  0              4.0708       1.00000  0.00     32.830    0
+  -960.3839      3.5000       1.58144  40.96    28.080    1
+  -54.1469       2.2000       1.00000  0.00     28.080    0
+  -64.4170       2.0000       1.59319  67.96    27.680    1
+  38.3030        7.5000       1.58144  40.96    28.500    1
+  -38.3030       2.0000       1.90265  35.73    28.500    1
+  108.4110       1.0000       1.00000  0.00     29.440    0
+  64.8598        4.1000       1.51742  52.25    33.400    1
+  -257.2027      42.2790      1.00000  0.00     33.400    0

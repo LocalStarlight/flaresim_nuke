@@ -1,0 +1,20 @@
+# Leica Telyt 200mm F4
+#
+# Patent: DE01096057
+# Converted from photonstophotos.net Optical Bench data
+# 9 surfaces, 4 glass elements, f/4.0
+
+name: Leica Telyt 200mm F4
+focal_length: 200.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  62.5400        10.0000      1.57090  63.00    54.300    1
+  -281.5000      5.5000       1.00000  0.00     54.300    0
+  -140.0000      4.0000       1.73430  28.10    50.460    1
+  448.7000       32.6400      1.00000  0.00     50.460    0
+  stop           4.1600       1.00000  0.00     36.489    0
+  -117.0000      5.0000       1.73940  40.80    39.140    1
+  -62.6000       18.2000      1.00000  0.00     39.140    0
+  -37.3000       4.0000       1.50350  56.30    29.980    1
+  -78.6600       103.2400     1.00000  0.00     29.980    0

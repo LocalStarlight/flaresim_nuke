@@ -1,0 +1,20 @@
+# Meyer Optik Gorlitz 35mm F4.5 Primagon
+#
+# Patent: DE01749770
+# Converted from photonstophotos.net Optical Bench data
+# 9 surfaces, 4 glass elements, f/4.5
+
+name: Meyer Optik Gorlitz 35mm F4.5 Primagon
+focal_length: 35.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  53.2000        3.1500       1.48771  70.30    37.460    1
+  26.7750        25.2000      1.00000  0.00     33.950    0
+  13.4750        2.9750       1.65883  51.00    12.440    1
+  -172.5500      3.3250       1.00000  0.00     12.440    0
+  -15.7500       0.7000       1.62542  35.50    9.100     1
+  13.6500        1.6850       1.00000  0.00     7.670     0
+  stop           0.9400       1.00000  0.00     7.679     0
+  67.2000        1.9250       1.56905  63.00    9.100     1
+  -12.6000       34.8700      1.00000  0.00     9.100     0

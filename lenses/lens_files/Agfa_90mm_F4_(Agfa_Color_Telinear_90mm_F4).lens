@@ -1,0 +1,20 @@
+# Agfa Color Telinear 90mm F4
+#
+# Patent: US002819651
+# Converted from photonstophotos.net Optical Bench data
+# 9 surfaces, 5 glass elements, f/4.0
+
+name: Agfa Color Telinear 90mm F4
+focal_length: 90.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  26.7579        5.7942       1.51633  64.00    23.720    1
+  -40.0104       1.1430       1.62606  39.10    23.720    1
+  36.2556        1.8945       1.00000  0.00     23.720    0
+  23.3694        4.3416       1.57041  48.10    22.760    1
+  86.0292        10.8161      1.00000  0.00     22.760    0
+  stop           15.7600      1.00000  0.00     15.355    0
+  -12.0096       1.1223       1.51454  54.70    14.280    1
+  31.6980        4.4919       1.60729  49.20    20.400    1
+  -26.0694       33.5200      1.00000  0.00     20.400    0

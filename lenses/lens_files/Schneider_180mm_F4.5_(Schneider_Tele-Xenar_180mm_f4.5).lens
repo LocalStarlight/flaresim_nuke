@@ -1,0 +1,20 @@
+# Schneider Tele-Xenar 180mm f4.5
+#
+# Patent: DE00471565
+# Converted from photonstophotos.net Optical Bench data
+# 9 surfaces, 5 glass elements, f/4.5
+
+name: Schneider Tele-Xenar 180mm f4.5
+focal_length: 180.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  37.4400        9.9000       1.51630  63.70    40.760    1
+  -99.9000       2.8800       1.62020  36.00    40.760    1
+  127.6200       34.0200      1.00000  0.00     37.570    0
+  stop           12.7800      1.00000  0.00     23.927    0
+  -23.5800       1.6200       1.51630  63.70    25.450    1
+  -70.3800       2.8800       1.64890  33.90    28.740    1
+  -42.6600       0.1800       1.00000  0.00     28.740    0
+  -107.1000      2.8800       1.52500  62.30    31.540    1
+  -73.2600       88.3200      1.00000  0.00     31.540    0

@@ -1,0 +1,17 @@
+# Projection Optics Super-Lite
+#
+# Patent: US001479251
+# Converted from photonstophotos.net Optical Bench data
+# 6 surfaces, 4 glass elements, f/2.2
+
+name: Projection Optics Super-Lite
+focal_length: 100.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  82.5700        8.5400       1.51600  63.80    45.450    1
+  -82.5700       2.8500       1.61820  36.10    45.450    1
+  0              95.5400      1.00000  0.00     45.450    0
+  41.2800        8.5400       1.51600  63.80    35.950    1
+  -41.2800       2.8500       1.61820  36.10    35.950    1
+  0              39.5700      1.00000  0.00     35.950    0

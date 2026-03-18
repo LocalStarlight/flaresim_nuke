@@ -1,0 +1,14 @@
+# Canon 250D (52mm)
+#
+# Patent: JP1995-318801
+# Converted from photonstophotos.net Optical Bench data
+# 3 surfaces, 2 glass elements
+
+name: Canon 250D (52mm)
+focal_length: 245.61
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  79.1480        6.0000       1.60311  60.70    51.950    1
+  -378.8300      2.6000       1.63980  34.50    51.950    1
+  177.7190       235.6700     1.00000  0.00     51.950    0

@@ -1,0 +1,21 @@
+# Nikon AI Reflex-Nikkor 1000mm f/11
+#
+# Patent: US003507556
+# Converted from photonstophotos.net Optical Bench data
+# 10 surfaces, 5 glass elements
+
+name: Nikon AI Reflex-Nikkor 1000mm f/11
+focal_length: 1000.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  682.0000       10.0000      1.51823  59.00    107.680   1
+  0              6.5000       1.00000  0.00     107.680   0
+  -319.0000      10.0000      1.54072  47.20    95.500    1
+  -485.1850      0.0000       1.00000  0.00     95.500    0
+  -169.4300      -3.3000      1.54814  45.90    41.540    1
+  -258.4200      0.0000       1.00000  0.00     41.540    0
+  -200.0000      1.7000       1.51680  64.20    26.660    1
+  69.2000        2.0000       1.00000  0.00     26.660    0
+  600.0000       2.4000       1.74077  27.70    26.660    1
+  -321.8600      89.6500      1.00000  0.00     26.660    0

@@ -1,0 +1,21 @@
+# Ricoh Pentax Super-Takumar 135mm f2.5
+#
+# Patent: US003459469
+# Converted from photonstophotos.net Optical Bench data
+# 10 surfaces, 5 glass elements, f/2.5
+
+name: Ricoh Pentax Super-Takumar 135mm f2.5
+focal_length: 135.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  81.0000        1.0800       1.74077  27.70    55.000    1
+  46.0080        9.7200       1.64000  60.20    55.000    1
+  340.7999       0.2700       1.00000  0.00     52.200    0
+  46.7100        7.4304       1.61025  56.50    50.680    1
+  150.0000       29.9997      1.00000  0.00     50.680    0
+  stop           0.0000       1.00000  0.00     25.290    0
+  0              4.7304       1.72000  43.70    27.530    1
+  27.0000        21.6000      1.00000  0.00     22.640    0
+  54.6360        5.4000       1.72000  43.70    29.500    1
+  1067.9715      42.7200      1.00000  0.00     29.500    0

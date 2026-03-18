@@ -1,0 +1,21 @@
+# Wray 50mm F2 Unilite
+#
+# Patent: GB0575076
+# Converted from photonstophotos.net Optical Bench data
+# 10 surfaces, 5 glass elements, f/2.0
+
+name: Wray 50mm F2 Unilite
+focal_length: 50.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  26.8650        5.8300       1.69100  54.80    30.680    1
+  77.3500        0.0000       1.00000  0.00     30.680    0
+  12.5250        5.2450       1.61300  57.60    21.730    1
+  28.9650        0.7600       1.70000  30.30    21.730    1
+  9.8200         6.5800       1.00000  0.00     16.540    0
+  stop           7.3600       1.00000  0.00     14.607    0
+  -10.7650       4.5600       1.61300  36.90    16.390    1
+  -15.9350       0.0000       1.00000  0.00     21.820    0
+  149.5000       7.1000       1.62100  60.30    30.580    1
+  -28.9100       22.1700      1.00000  0.00     30.580    0

@@ -1,0 +1,21 @@
+# Zeiss Planar 80mm f2.8 (Graflex XL)
+#
+# Patent: US002799207
+# Converted from photonstophotos.net Optical Bench data
+# 10 surfaces, 5 glass elements, f/2.8
+
+name: Zeiss Planar 80mm f2.8 (Graflex XL)
+focal_length: 80.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  27.7775        6.0584       1.62041  60.30    37.810    1
+  72.3305        0.1056       1.00000  0.00     37.810    0
+  24.7570        4.9888       1.75520  27.50    29.890    1
+  17.2764        9.7968       1.00000  0.00     24.380    0
+  stop           9.7968       1.00000  0.00     20.418    0
+  -18.2994       1.0592       1.71736  29.50    19.930    1
+  135.2712       7.5936       1.69067  54.90    30.360    1
+  -25.6635       0.1056       1.00000  0.00     30.360    0
+  -227.0856      5.2960       1.75520  27.50    37.850    1
+  -43.0839       58.8880      1.00000  0.00     37.850    0

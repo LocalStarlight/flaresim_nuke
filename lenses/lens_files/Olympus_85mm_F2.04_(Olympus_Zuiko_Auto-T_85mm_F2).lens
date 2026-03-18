@@ -1,0 +1,21 @@
+# Olympus Zuiko Auto-T 85mm F2
+#
+# Patent: US004063802
+# Converted from photonstophotos.net Optical Bench data
+# 10 surfaces, 5 glass elements, f/2.0
+
+name: Olympus Zuiko Auto-T 85mm F2
+focal_length: 85.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  50.5870        6.2400       1.72000  50.25    44.217    1
+  329.1420       0.1500       1.00000  0.00     44.217    0
+  26.7940        10.4200      1.62300  58.14    40.298    1
+  55.2080        3.4900       1.00000  0.00     35.734    0
+  123.9100       1.4000       1.78470  25.71    30.073    1
+  18.2530        8.5000       1.00000  0.00     28.331    0
+  stop           8.5400       1.00000  0.00     24.524    0
+  148.1160       7.6000       1.70000  48.08    25.933    1
+  -18.2100       0.9000       1.58300  59.36    24.863    1
+  -139.2920      44.0360      1.00000  0.00     25.857    0

@@ -1,0 +1,20 @@
+# Leica Elmarit 90mm F2.8
+#
+# Patent: US002995980
+# Converted from photonstophotos.net Optical Bench data
+# 9 surfaces, 5 glass elements, f/2.8
+
+name: Leica Elmarit 90mm F2.8
+focal_length: 90.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  39.6500        6.0300       1.69100  54.80    34.320    1
+  -241.1500      6.3000       1.00000  0.00     34.320    0
+  -44.1400       4.8600       1.75520  27.50    30.060    1
+  -24.0400       2.7000       1.63980  34.60    30.060    1
+  31.3800        3.3250       1.00000  0.00     26.220    0
+  stop           1.0000       1.00000  0.00     26.133    0
+  -1194.0000     2.7000       1.62588  35.60    26.780    1
+  26.2400        8.3400       1.74400  44.90    30.600    1
+  -44.9800       74.4400      1.00000  0.00     30.600    0

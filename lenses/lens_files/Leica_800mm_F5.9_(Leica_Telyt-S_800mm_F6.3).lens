@@ -1,0 +1,16 @@
+# Leica Telyt-S 800mm f/6.3
+#
+# Patent: US003536379
+# Converted from photonstophotos.net Optical Bench data
+# 5 surfaces, 3 glass elements, f/5.9
+
+name: Leica Telyt-S 800mm f/6.3
+focal_length: 800.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  411.3280       9.6000       1.67245  45.80    139.360   1
+  256.0330       20.0000      1.54408  73.00    139.360   1
+  -256.0330      9.6000       1.57125  55.80    139.360   1
+  -2699.0240     516.8000     1.00000  0.00     139.360   0
+  stop           267.2000     1.00000  0.00     44.755    0

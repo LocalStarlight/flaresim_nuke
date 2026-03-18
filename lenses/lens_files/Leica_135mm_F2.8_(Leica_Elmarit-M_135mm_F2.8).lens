@@ -1,0 +1,21 @@
+# Leica Elmarit-M 135mm F2.8
+#
+# Patent: US003108152
+# Converted from photonstophotos.net Optical Bench data
+# 10 surfaces, 5 glass elements, f/2.8
+
+name: Leica Elmarit-M 135mm F2.8
+focal_length: 135.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  84.5600        6.7500       1.62303  60.10    48.380    1
+  146.3535       0.0810       1.00000  0.00     48.380    0
+  60.9579        5.6700       1.62303  60.10    48.140    1
+  90.8321        0.0810       1.00000  0.00     48.140    0
+  41.0630        9.9600       1.55897  58.30    45.740    1
+  0              17.7120      1.67764  32.00    45.740    1
+  26.4222        5.7350       1.00000  0.00     28.350    0
+  stop           16.8100      1.00000  0.00     27.860    0
+  69.4076        3.7800       1.69416  30.90    29.120    1
+  191.5664       64.9620      1.00000  0.00     29.120    0

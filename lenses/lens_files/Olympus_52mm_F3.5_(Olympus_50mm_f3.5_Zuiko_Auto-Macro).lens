@@ -1,0 +1,21 @@
+# Olympus 50mm f3.5 Zuiko Auto-Macro
+#
+# Patent: US003884557
+# Converted from photonstophotos.net Optical Bench data
+# 10 surfaces, 5 glass elements, f/3.5
+
+name: Olympus 50mm f3.5 Zuiko Auto-Macro
+focal_length: 51.78
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  24.5490        4.1300       1.72000  43.70    21.540    1
+  47.2030        0.2500       1.00000  0.00     20.470    0
+  14.3560        4.2600       1.67003  47.25    16.640    1
+  70.0800        1.3000       1.67270  32.10    16.640    1
+  9.6130         5.2500       1.00000  0.00     10.960    0
+  stop           5.6500       1.00000  0.00     10.188    0
+  -10.1770       1.5400       1.76182  26.55    11.470    1
+  -13.8690       0.2000       1.00000  0.00     13.650    0
+  -54.0080       3.6600       1.67000  57.33    16.490    1
+  -15.1670       37.1500      1.00000  0.00     16.490    0

@@ -1,0 +1,20 @@
+# Leica Elmar-M 135mm F4
+#
+# Patent: DE01183707
+# Converted from photonstophotos.net Optical Bench data
+# 9 surfaces, 5 glass elements, f/4.0
+
+name: Leica Elmar-M 135mm F4
+focal_length: 135.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  65.2266        5.7496       1.57125  55.80    34.130    1
+  0              3.3102       1.58403  41.40    34.130    1
+  279.6377       0.2862       1.00000  0.00     34.130    0
+  37.2735        8.6225       1.51871  64.00    31.880    1
+  -156.4029      18.6732      1.60718  37.80    31.880    1
+  24.9750        3.3800       1.00000  0.00     20.980    0
+  stop           19.7401      1.00000  0.00     20.113    0
+  70.3647        3.5910       1.69416  30.90    22.680    1
+  151.0556       64.3600      1.00000  0.00     22.680    0

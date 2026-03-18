@@ -1,0 +1,20 @@
+# Meyer Optik Gorlitz 500mm F5.6 Orestegor
+#
+# Patent: DE01980417
+# Converted from photonstophotos.net Optical Bench data
+# 9 surfaces, 4 glass elements, f/5.6
+
+name: Meyer Optik Gorlitz 500mm F5.6 Orestegor
+focal_length: 500.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  195.0000       18.5000      1.50977  61.90    112.340   1
+  -290.0000      6.5000       1.00000  0.00     112.340   0
+  -265.0000      6.5000       1.74000  28.20    104.690   1
+  -1105.0000     170.7000     1.00000  0.00     104.690   0
+  stop           131.8000     1.00000  0.00     48.402    0
+  110.0000       8.0000       1.61659  36.60    50.890    1
+  0              6.0000       1.00000  0.00     50.890    0
+  -185.0000      6.0000       1.65844  50.80    50.890    1
+  130.0000       90.9200      1.00000  0.00     50.890    0

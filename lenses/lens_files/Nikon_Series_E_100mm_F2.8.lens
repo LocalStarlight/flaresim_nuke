@@ -1,0 +1,20 @@
+# Nikon Series E 100mm f/2.8
+#
+# Patent: US004303314
+# Converted from photonstophotos.net Optical Bench data
+# 9 surfaces, 4 glass elements, f/2.8
+
+name: Nikon Series E 100mm f/2.8
+focal_length: 100.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  41.0000        5.3000       1.61272  58.60    35.750    1
+  298.1900       0.7500       1.00000  0.00     35.750    0
+  29.9200        9.8000       1.62041  60.30    32.600    1
+  71.7200        1.8000       1.00000  0.00     27.670    0
+  149.2200       4.5000       1.71736  29.50    27.020    1
+  19.8400        7.2000       1.00000  0.00     22.810    0
+  stop           11.0000      1.00000  0.00     20.652    0
+  71.0000        2.0000       1.74077  27.70    20.430    1
+  227.0700       40.2200      1.00000  0.00     20.430    0

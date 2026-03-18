@@ -1,0 +1,20 @@
+# Konica Minolta Hexanon AR 135mm F3.5 (1955)
+#
+# Patent: JP1955-009472
+# Converted from photonstophotos.net Optical Bench data
+# 9 surfaces, 4 glass elements, f/3.5
+
+name: Konica Minolta Hexanon AR 135mm F3.5 (1955)
+focal_length: 135.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  45.9000        5.4000       1.51633  64.00    40.460    1
+  151.4700       0.2700       1.00000  0.00     40.460    0
+  36.2475        8.1000       1.51633  64.00    37.940    1
+  143.6670       5.4000       1.00000  0.00     34.100    0
+  378.0000       9.8550       1.67270  32.20    32.040    1
+  24.2055        6.5200       1.00000  0.00     26.340    0
+  stop           14.0000      1.00000  0.00     23.540    0
+  60.7500        5.4000       1.64769  33.90    22.360    1
+  282.2715       73.4100      1.00000  0.00     22.360    0

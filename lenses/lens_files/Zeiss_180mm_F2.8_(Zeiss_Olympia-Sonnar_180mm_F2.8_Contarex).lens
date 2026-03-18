@@ -1,0 +1,20 @@
+# Zeiss Olympia-Sonnar 180mm F2.8 Contarex
+#
+# Patent: DE01268404
+# Converted from photonstophotos.net Optical Bench data
+# 9 surfaces, 4 glass elements, f/2.8
+
+name: Zeiss Olympia-Sonnar 180mm F2.8 Contarex
+focal_length: 180.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  76.0140        15.7320      1.62041  60.29    69.180    1
+  2658.3660      0.0540       1.00000  0.00     65.740    0
+  60.3810        10.8720      1.62041  60.29    61.120    1
+  127.6110       14.9040      1.00000  0.00     56.420    0
+  0              5.8140       1.78470  26.10    44.320    1
+  40.9392        22.1000      1.00000  0.00     37.400    0
+  stop           26.2300      1.00000  0.00     32.381    0
+  344.4480       4.9320       1.75520  27.53    38.480    1
+  -170.1828      74.2680      1.00000  0.00     38.480    0

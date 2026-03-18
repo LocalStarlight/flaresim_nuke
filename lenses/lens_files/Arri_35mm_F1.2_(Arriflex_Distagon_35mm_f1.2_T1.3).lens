@@ -1,0 +1,12 @@
+# Arriflex Distagon 35mm f1.2 T1.3
+#
+# Patent: US004089591
+# Converted from photonstophotos.net Optical Bench data
+# 1 surfaces, 1 glass elements, f/1.2
+
+name: Arriflex Distagon 35mm f1.2 T1.3
+focal_length: 35.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  -1818.5741     1.8331       1.54814  45.75    26.740    1

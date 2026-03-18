@@ -1,0 +1,20 @@
+# Zeiss Hologon f8 15mm
+#
+# Patent: DE01241637
+# Converted from photonstophotos.net Optical Bench data
+# 9 surfaces, 4 glass elements, f/8.0
+
+name: Zeiss Hologon f8 15mm
+focal_length: 15.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  11.6400        7.9785       1.80518  25.46    21.800    1
+  3.8430         2.7030       1.00000  0.00     7.630     0
+  5.6685         4.1685       1.71300  53.89    7.190     1
+  0              0.0000       1.00000  0.00     1.534     0
+  stop           0.0000       1.00000  0.00     1000000.000 0
+  0              3.4800       1.71300  53.89    1.534     1
+  -5.5080        2.4045       1.00000  0.00     6.840     0
+  -3.6285        5.2365       1.80518  25.46    7.257     1
+  -8.9835        4.5420       1.00000  0.00     17.310    0

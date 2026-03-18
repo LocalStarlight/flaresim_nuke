@@ -1,0 +1,20 @@
+# Kodak Ektar 100mm F4.5
+#
+# Patent: US002279384
+# Converted from photonstophotos.net Optical Bench data
+# 9 surfaces, 5 glass elements, f/4.5
+
+name: Kodak Ektar 100mm F4.5
+focal_length: 100.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  28.3000        8.0600       1.61100  57.20    25.780    1
+  -34.3000       2.2600       1.57300  57.50    25.780    1
+  280.1000       1.9600       1.00000  0.00     24.190    0
+  -72.7000       2.5000       1.60500  38.20    21.850    1
+  27.4000        2.5400       1.00000  0.00     18.430    0
+  stop           3.3000       1.00000  0.00     18.066    0
+  400.9000       2.2700       1.57500  41.40    22.990    1
+  40.5000        5.1900       1.74400  45.80    25.780    1
+  -68.0000       82.1300      1.00000  0.00     25.780    0

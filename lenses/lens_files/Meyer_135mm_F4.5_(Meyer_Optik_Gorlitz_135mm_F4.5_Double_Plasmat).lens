@@ -1,0 +1,22 @@
+# Meyer Optik Gorlitz 135mm F4.5 Double Plasmat
+#
+# Patent: GB0135853
+# Converted from photonstophotos.net Optical Bench data
+# 11 surfaces, 6 glass elements, f/4.5
+
+name: Meyer Optik Gorlitz 135mm F4.5 Double Plasmat
+focal_length: 135.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  36.4635        7.6140       1.62070  56.90    32.570    1
+  -190.2150      3.4830       1.53980  47.30    32.570    1
+  25.3665        1.9035       1.00000  0.00     27.560    0
+  31.6980        3.9690       1.62230  53.20    26.420    1
+  45.6165        3.1725       1.00000  0.00     25.620    0
+  stop           3.1725       1.00000  0.00     24.923    0
+  -45.6165       3.9690       1.62230  53.20    25.620    1
+  -31.6980       1.9035       1.00000  0.00     26.420    0
+  -25.3665       3.4830       1.53980  47.30    27.560    1
+  190.2150       7.6140       1.62070  56.90    32.570    1
+  -36.4635       115.8000     1.00000  0.00     32.570    0

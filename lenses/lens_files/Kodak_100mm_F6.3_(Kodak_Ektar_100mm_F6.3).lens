@@ -1,0 +1,20 @@
+# Kodak Ektar 100mm F6.3
+#
+# Patent: US002518719
+# Converted from photonstophotos.net Optical Bench data
+# 9 surfaces, 4 glass elements, f/6.3
+
+name: Kodak Ektar 100mm F6.3
+focal_length: 100.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  24.6000        4.8900       1.62000  60.30    22.100    1
+  51.6000        0.6500       1.00000  0.00     22.100    0
+  22.0000        2.2000       1.62100  36.20    15.740    1
+  15.2000        4.0000       1.00000  0.00     14.240    0
+  stop           6.6000       1.00000  0.00     13.283    0
+  -16.8000       2.0400       1.60500  38.00    16.880    1
+  -32.4000       0.8100       1.00000  0.00     19.600    0
+  -68.4000       4.0700       1.62000  60.30    23.710    1
+  -20.9000       89.0100      1.00000  0.00     23.710    0

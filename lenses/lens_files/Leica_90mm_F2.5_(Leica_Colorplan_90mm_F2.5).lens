@@ -1,0 +1,21 @@
+# Leica Colorplan 90mm F2.5
+#
+# Patent: US003076383
+# Converted from photonstophotos.net Optical Bench data
+# 10 surfaces, 5 glass elements, f/2.5
+
+name: Leica Colorplan 90mm F2.5
+focal_length: 90.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  54.3600        8.3790       1.65800  50.80    39.170    1
+  147.8700       4.6890       1.00000  0.00     39.170    0
+  28.8990        10.0620      1.65800  50.80    35.120    1
+  0              4.3200       1.67300  32.20    29.180    1
+  19.7100        8.9060       1.00000  0.00     25.950    0
+  stop           8.5000       1.00000  0.00     21.619    0
+  -24.6510       7.0470       1.75500  27.50    22.980    1
+  -36.7020       0.8460       1.00000  0.00     35.120    0
+  204.0300       6.2910       1.63900  55.50    34.670    1
+  -47.1600       52.0000      1.00000  0.00     34.670    0

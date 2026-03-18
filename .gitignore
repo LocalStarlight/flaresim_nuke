@@ -1,0 +1,20 @@
+# Build outputs
+build_nuke*/
+build/
+dist/
+*.dll
+*.obj
+*.pdb
+*.tlog
+*.iobj
+*.ipdb
+
+# Claude AI session data
+.claude/
+
+# Personal / dev artefacts
+compare/
+original_code/
+flare.pdf
+lenses/lens_files_v2/
+release_packages/

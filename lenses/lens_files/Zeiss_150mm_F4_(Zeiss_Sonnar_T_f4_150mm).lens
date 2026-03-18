@@ -1,0 +1,20 @@
+# Zeiss Sonnar T f4 150mm
+#
+# Patent: US002720140
+# Converted from photonstophotos.net Optical Bench data
+# 9 surfaces, 5 glass elements, f/4.0
+
+name: Zeiss Sonnar T f4 150mm
+focal_length: 150.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  74.2250        10.8890      1.66672  48.40    44.540    1
+  231.3690       0.2480       1.00000  0.00     44.540    0
+  34.1240        15.8370      1.62041  60.30    38.240    1
+  -429.5880      2.2280       1.72342  38.00    38.240    1
+  24.1570        16.6440      1.00000  0.00     25.170    0
+  stop           14.0400      1.00000  0.00     23.852    0
+  540.4710       10.8890      1.70154  41.10    30.180    1
+  -25.7740       10.3940      1.60140  38.30    32.360    1
+  -372.0110      80.6800      1.00000  0.00     39.360    0

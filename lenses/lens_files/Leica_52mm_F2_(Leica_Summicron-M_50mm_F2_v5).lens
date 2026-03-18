@@ -1,0 +1,22 @@
+# Leica Summicron-M 50mm F2 v5
+#
+# Patent: US004123144
+# Converted from photonstophotos.net Optical Bench data
+# 11 surfaces, 6 glass elements, f/2.0
+
+name: Leica Summicron-M 50mm F2 v5
+focal_length: 52.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  31.1700        4.9800       1.79227  47.15    29.880    1
+  87.0000        0.2000       1.00000  0.00     27.800    0
+  20.9600        7.4600       1.67133  41.64    23.540    1
+  0              1.4900       1.73430  28.19    20.290    1
+  13.3500        5.6200       1.00000  0.00     16.850    0
+  stop           6.9600       1.00000  0.00     16.208    0
+  -14.4000       0.9900       1.63003  35.45    15.110    1
+  0              3.9800       1.72055  47.69    17.940    1
+  -20.9600       0.2000       1.00000  0.00     19.700    0
+  0              4.4800       1.72055  47.69    23.120    1
+  -31.1700       30.6200      1.00000  0.00     24.380    0

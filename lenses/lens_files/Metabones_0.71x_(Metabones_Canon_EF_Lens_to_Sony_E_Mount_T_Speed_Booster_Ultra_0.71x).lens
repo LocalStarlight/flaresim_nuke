@@ -1,0 +1,22 @@
+# Metabones Canon EF Lens to Sony E Mount T Speed Booster Ultra 0.71x
+#
+# Patent: US008879901
+# Converted from photonstophotos.net Optical Bench data
+# 11 surfaces, 5 glass elements, f/0.9
+
+name: Metabones Canon EF Lens to Sony E Mount T Speed Booster Ultra 0.71x
+focal_length: 84.60
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  0              25.0000      1.00000  0.00     78.700    0
+  -286.0970      1.2000       1.51742  52.43    30.800    1
+  82.8580        0.2500       1.00000  0.00     32.000    0
+  24.6870        7.3000       1.83481  42.71    32.000    1
+  144.8120       1.3070       1.00000  0.00     32.000    0
+  538.0310       1.0000       1.71736  29.52    31.400    1
+  19.7120        2.8550       1.00000  0.00     28.175    0
+  33.8610        4.6810       1.77250  49.60    28.300    1
+  -631.9590      8.9300       1.00000  0.00     28.300    0
+  0              2.0000       1.51742  52.43    30.000    1
+  0              2.0000       1.00000  0.00     30.000    0

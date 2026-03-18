@@ -1,0 +1,21 @@
+# Enna Munchen Tele-Ennalyt 135mm F2.8
+#
+# Patent: US002907248
+# Converted from photonstophotos.net Optical Bench data
+# 10 surfaces, 5 glass elements, f/3.5
+
+name: Enna Munchen Tele-Ennalyt 135mm F2.8
+focal_length: 135.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  73.5750        6.2100       1.51112  60.60    46.660    1
+  147.1500       0.2700       1.00000  0.00     43.300    0
+  36.7875        12.1500      1.51895  57.30    43.240    1
+  -155.2500      2.9700       1.69895  30.10    43.240    1
+  78.3000        35.8800      1.00000  0.00     35.020    0
+  stop           5.1600       1.00000  0.00     18.800    0
+  50.6250        3.3750       1.63980  34.60    16.660    1
+  228.1500       7.9650       1.00000  0.00     16.660    0
+  -26.8650       0.5400       1.55232  63.50    18.270    1
+  0              39.1635      1.00000  0.00     19.080    0

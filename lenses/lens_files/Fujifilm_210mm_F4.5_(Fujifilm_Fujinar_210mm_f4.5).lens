@@ -1,0 +1,19 @@
+# Fujifilm Fujinar 210mm f4.5
+#
+# Patent: JP1954-002685
+# Converted from photonstophotos.net Optical Bench data
+# 8 surfaces, 4 glass elements, f/4.5
+
+name: Fujifilm Fujinar 210mm f4.5
+focal_length: 210.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  58.0000        8.4000       1.61260  0.00     48.340    1
+  0              9.6000       1.00000  0.00     46.330    0
+  -129.4000      3.8000       1.57830  0.00     43.840    1
+  53.1000        7.6500       1.00000  0.00     39.950    0
+  stop           4.6500       1.00000  0.00     39.850    0
+  -409.9000      3.2000       1.52930  0.00     43.730    1
+  55.6000        11.0000      1.62270  0.00     43.730    1
+  -82.3000       184.4000     1.00000  0.00     41.880    0

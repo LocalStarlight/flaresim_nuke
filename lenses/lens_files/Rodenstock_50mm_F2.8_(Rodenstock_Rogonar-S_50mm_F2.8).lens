@@ -1,0 +1,19 @@
+# Rodenstock Rogonar-S 50mm F2.8
+#
+# Patent: DE01089991
+# Converted from photonstophotos.net Optical Bench data
+# 8 surfaces, 4 glass elements, f/2.8
+
+name: Rodenstock Rogonar-S 50mm F2.8
+focal_length: 50.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  20.2250        6.9000       1.67800  55.50    20.280    1
+  -1965.0000     0.9400       1.00000  0.00     20.280    0
+  stop           1.8200       1.00000  0.00     15.352    0
+  -34.1500       1.1700       1.62500  35.60    16.440    1
+  17.5000        3.7150       1.00000  0.00     16.440    0
+  1774.0000      1.1700       1.58900  41.00    14.760    1
+  19.1000        4.6750       1.71700  47.90    18.080    1
+  -26.2000       39.6000      1.00000  0.00     18.080    0

@@ -1,0 +1,18 @@
+# Nikon 400mm f/8 Dodotto Tele
+#
+# Patent: JP1997-105860
+# Converted from photonstophotos.net Optical Bench data
+# 7 surfaces, 4 glass elements, f/8.1
+
+name: Nikon 400mm f/8 Dodotto Tele
+focal_length: 390.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  146.1860       7.5000       1.62280  57.03    48.110    1
+  -103.0200      3.0000       1.75692  31.62    48.110    1
+  -419.7600      60.0000      1.00000  0.00     48.110    0
+  stop           47.0000      1.00000  0.00     33.330    0
+  191.7860       3.0000       1.62004  36.27    22.910    1
+  -247.1840      2.0000       1.51680  64.10    22.910    1
+  59.6080        174.5945     1.00000  0.00     22.910    0

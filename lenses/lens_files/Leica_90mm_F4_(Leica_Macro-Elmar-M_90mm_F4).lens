@@ -1,0 +1,20 @@
+# Leica Macro-Elmar-M 90mm F4
+#
+# Patent: DE02246966
+# Converted from photonstophotos.net Optical Bench data
+# 9 surfaces, 4 glass elements, f/4.0
+
+name: Leica Macro-Elmar-M 90mm F4
+focal_length: 90.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  23.1795        4.0320       1.64304  59.85    22.550    1
+  94.0545        0.0720       1.00000  0.00     22.550    0
+  20.8503        3.6990       1.64304  59.85    20.640    1
+  47.0448        1.8630       1.00000  0.00     20.640    0
+  91.8495        1.4850       1.75458  34.72    18.820    1
+  14.2515        9.6150       1.00000  0.00     17.540    0
+  stop           13.2720      1.00000  0.00     14.367    0
+  59.3019        2.9520       1.79180  25.87    20.470    1
+  112.6845       45.8500      1.00000  0.00     20.470    0

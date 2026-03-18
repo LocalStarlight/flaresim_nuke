@@ -1,0 +1,23 @@
+# Olympus MC-14 M.Zuiko Digital 1.4X Teleconverter
+#
+# Patent: US20150226943
+# Converted from photonstophotos.net Optical Bench data
+# 12 surfaces, 7 glass elements
+
+name: Olympus MC-14 M.Zuiko Digital 1.4X Teleconverter
+focal_length: 50.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  0              1.8574       1.00000  0.00     15.418    0
+  -290.3757      2.6400       1.80518  25.46    21.110    1
+  -57.8821       1.0400       1.00000  0.00     21.110    0
+  -324.6838      1.1000       1.80400  46.57    20.030    1
+  13.8612        8.7900       1.59270  35.31    19.730    1
+  -22.2537       1.1000       1.83481  42.71    19.730    1
+  42.2116        0.2500       1.00000  0.00     20.400    0
+  20.6554        8.1500       1.61340  44.27    22.090    1
+  -28.9825       1.1000       1.84666  23.78    22.090    1
+  157.3317       11.8800      1.00000  0.00     22.090    0
+  0              4.0000       1.51633  64.14    29.080    1
+  0              0.8000       1.00000  0.00     29.080    0

@@ -1,0 +1,18 @@
+# Ricoh smc Pentax Life Size Converter 6x7 for smc 6x7 Macro 100mm f4.0
+#
+# Patent: US006002533
+# Converted from photonstophotos.net Optical Bench data
+# 7 surfaces, 3 glass elements, f/6.0
+
+name: Ricoh smc Pentax Life Size Converter 6x7 for smc 6x7 Macro 100mm f4.0
+focal_length: 218.79
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  stop           0.0000       1.00000  0.00     36.460    0
+  81.4000        8.2400       1.71299  53.90    43.910    1
+  -462.0000      2.9800       1.00000  0.00     43.910    0
+  -67.2700       2.7000       1.64769  33.80    42.160    1
+  193.4400       3.1600       1.00000  0.00     42.160    0
+  -87.6100       5.5000       1.83400  37.20    38.810    1
+  -52.7540       210.6500     1.00000  0.00     38.810    0

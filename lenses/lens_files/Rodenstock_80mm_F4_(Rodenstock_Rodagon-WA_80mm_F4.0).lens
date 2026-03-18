@@ -1,0 +1,22 @@
+# Rodenstock Rodagon-WA 80mm F4.0
+#
+# Patent: DE02818435
+# Converted from photonstophotos.net Optical Bench data
+# 11 surfaces, 6 glass elements, f/4.0
+
+name: Rodenstock Rodagon-WA 80mm F4.0
+focal_length: 80.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  20.6000        6.8720       1.69400  54.47    28.240    1
+  0              2.8560       1.61670  44.07    28.240    1
+  13.0960        1.1600       1.00000  0.00     17.160    0
+  18.9760        3.0480       1.62290  60.07    17.160    1
+  27.5840        4.6000       1.00000  0.00     15.080    0
+  stop           3.3520       1.00000  0.00     14.737    0
+  -108.6320      4.0160       1.62290  60.07    14.610    1
+  -39.9600       1.1440       1.00000  0.00     16.610    0
+  -18.5040       3.0960       1.61669  44.07    16.870    1
+  0              6.2960       1.62286  60.07    24.090    1
+  -20.1680       62.0800      1.00000  0.00     26.170    0

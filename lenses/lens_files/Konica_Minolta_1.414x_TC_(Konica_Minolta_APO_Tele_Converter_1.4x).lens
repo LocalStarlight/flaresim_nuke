@@ -1,0 +1,21 @@
+# Konica Minolta APO Tele Converter 1.4x
+#
+# Patent: JP1988-200113
+# Converted from photonstophotos.net Optical Bench data
+# 10 surfaces, 5 glass elements
+
+name: Konica Minolta APO Tele Converter 1.4x
+focal_length: 50.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  0              43.5000      1.00000  0.00     89.970    0
+  70.6560        2.0000       1.85000  40.04    30.460    1
+  23.6810        8.3000       1.59270  35.29    30.460    1
+  -71.5510       1.7700       1.00000  0.00     30.460    0
+  -142.1860      1.6000       1.77250  49.77    29.290    1
+  89.7640        4.3400       1.00000  0.00     29.290    0
+  -42.0830       1.8000       1.77250  49.77    28.970    1
+  128.5240       0.1000       1.00000  0.00     32.550    0
+  56.2000        6.5000       1.51680  64.20    33.240    1
+  -56.2000       37.4600      1.00000  0.00     33.240    0

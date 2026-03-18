@@ -1,0 +1,21 @@
+# Olympus E.Zuiko 45mm F2.8 (Ace-E)
+#
+# Patent: JP1950-003066
+# Converted from photonstophotos.net Optical Bench data
+# 10 surfaces, 5 glass elements, f/2.8
+
+name: Olympus E.Zuiko 45mm F2.8 (Ace-E)
+focal_length: 45.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  26.6985        1.3815       1.62280  56.90    16.100    1
+  56.3985        0.1215       1.00000  0.00     16.100    0
+  13.1715        3.0015       1.62280  56.90    15.560    1
+  92.3985        0.9000       1.00000  0.00     15.560    0
+  -540.0000      0.9000       1.62000  36.30    14.500    1
+  10.5615        3.3000       1.00000  0.00     12.720    0
+  stop           1.2000       1.00000  0.00     12.608    0
+  -54.0000       0.7200       1.51450  54.70    12.630    1
+  15.2325        5.9850       1.62280  56.90    12.960    1
+  -25.2225       34.0500      1.00000  0.00     12.960    0

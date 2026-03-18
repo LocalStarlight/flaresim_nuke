@@ -1,0 +1,19 @@
+# Konica Minolta Hexar 38mm F2.8
+#
+# Patent: US003615126
+# Converted from photonstophotos.net Optical Bench data
+# 8 surfaces, 4 glass elements, f/2.8
+
+name: Konica Minolta Hexar 38mm F2.8
+focal_length: 38.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  12.5704        3.8000       1.80420  46.60    14.860    1
+  36.0962        1.0260       1.00000  0.00     12.210    0
+  -108.4482      1.7100       1.75690  31.70    12.060    1
+  11.6812        1.5960       1.00000  0.00     11.010    0
+  45.6570        0.9500       1.72825  28.30    11.030    1
+  12.5704        3.8000       1.83060  36.50    12.010    1
+  -35.2222       1.2400       1.00000  0.00     12.010    0
+  stop           28.7900      1.00000  0.00     10.409    0

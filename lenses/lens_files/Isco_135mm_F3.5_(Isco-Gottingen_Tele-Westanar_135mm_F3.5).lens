@@ -1,0 +1,21 @@
+# Isco-Gottingen Tele-Westanar 135mm F3.5
+#
+# Patent: FR1218166
+# Converted from photonstophotos.net Optical Bench data
+# 10 surfaces, 5 glass elements, f/3.5
+
+name: Isco-Gottingen Tele-Westanar 135mm F3.5
+focal_length: 135.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  79.5285        5.1030       1.53375  55.40    38.900    1
+  150.7815       0.2025       1.00000  0.00     38.900    0
+  38.7450        11.2185      1.53113  62.00    38.380    1
+  -138.6720      3.0645       1.68893  31.20    38.380    1
+  83.6055        29.5295      1.00000  0.00     33.560    0
+  stop           12.2800      1.00000  0.00     22.471    0
+  57.1050        4.0770       1.64831  33.80    20.530    1
+  173.3400       9.6525       1.00000  0.00     20.530    0
+  -27.0270       3.0645       1.51680  64.20    20.440    1
+  -244.7145      39.3500      1.00000  0.00     20.440    0

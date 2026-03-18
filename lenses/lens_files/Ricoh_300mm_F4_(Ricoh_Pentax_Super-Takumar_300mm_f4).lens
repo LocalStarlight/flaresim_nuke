@@ -1,0 +1,22 @@
+# Ricoh Pentax Super-Takumar 300mm f4
+#
+# Patent: US003502394
+# Converted from photonstophotos.net Optical Bench data
+# 11 surfaces, 5 glass elements, f/4.0
+
+name: Ricoh Pentax Super-Takumar 300mm f4
+focal_length: 300.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  120.7500       13.2000      1.50977  61.90    75.150    1
+  -846.0300      16.0500      1.00000  0.00     75.150    0
+  -223.5150      3.0000       1.71736  29.50    68.290    1
+  480.9900       0.3000       1.00000  0.00     68.290    0
+  84.6660        10.5000      1.48749  70.00    67.550    1
+  1035.3300      82.0000      1.00000  0.00     67.550    0
+  stop           29.0000      1.00000  0.00     30.977    0
+  -37.6500       1.5000       1.72916  54.80    22.080    1
+  210.3780       2.6280       1.00000  0.00     22.080    0
+  122.4000       3.0000       1.76200  40.30    22.080    1
+  -87.7410       74.8400      1.00000  0.00     22.080    0

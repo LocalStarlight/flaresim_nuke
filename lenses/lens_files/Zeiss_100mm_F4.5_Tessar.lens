@@ -1,0 +1,19 @@
+# 100mm Tessar
+#
+# Patent: US001849681
+# Converted from photonstophotos.net Optical Bench data
+# 8 surfaces, 4 glass elements, f/4.5
+
+name: 100mm Tessar
+focal_length: 100.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  23.4000        4.3000       1.58315  59.30    22.300    1
+  0              2.3000       1.00000  0.00     22.260    0
+  -81.3000       2.5000       1.58215  42.00    21.000    1
+  22.4000        4.2000       1.00000  0.00     19.300    0
+  stop           1.3000       1.00000  0.00     19.313    0
+  -322.0000      0.6000       1.58215  42.00    19.500    1
+  27.6000        4.7000       1.67110  47.30    20.600    1
+  -48.3000       86.9900      1.00000  0.00     20.600    0

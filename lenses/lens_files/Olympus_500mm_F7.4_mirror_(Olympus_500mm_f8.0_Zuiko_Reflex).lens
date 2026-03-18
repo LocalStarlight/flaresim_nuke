@@ -1,0 +1,19 @@
+# Olympus 500mm f8.0 Zuiko Reflex
+#
+# Patent: US004188091
+# Converted from photonstophotos.net Optical Bench data
+# 8 surfaces, 5 glass elements, f/7.4
+
+name: Olympus 500mm f8.0 Zuiko Reflex
+focal_length: 500.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  166.2350       10.0000      1.51821  65.04    70.330    1
+  280.0700       65.0000      1.00000  0.00     70.330    0
+  -149.5350      9.0000       1.51633  64.15    60.280    1
+  -230.8750      0.0000       1.00000  0.00     61.800    0
+  -108.6950      -5.0000      1.58215  42.09    29.580    1
+  166.2350       -3.0000      1.58904  53.33    29.580    1
+  -132.8700      0.0000       1.00000  0.00     25.320    0
+  -48.7300       20.0000      1.65160  58.67    18.280    1

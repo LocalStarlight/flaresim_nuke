@@ -1,0 +1,20 @@
+# Goerz Dagor Anastigmat 240mm F6.8
+#
+# Patent: DE00074437
+# Converted from photonstophotos.net Optical Bench data
+# 9 surfaces, 6 glass elements, f/7.0
+
+name: Goerz Dagor Anastigmat 240mm F6.8
+focal_length: 240.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  45.8350        7.3340       1.61310  0.00     36.730    1
+  -54.3240       1.8330       1.56804  0.00     36.730    1
+  19.8530        4.5840       1.51497  0.00     30.200    1
+  49.0880        5.5000       1.00000  0.00     30.200    0
+  stop           5.5000       1.00000  0.00     29.921    0
+  -49.0880       4.5840       1.51497  0.00     30.200    1
+  -19.8530       1.8330       1.56804  0.00     30.200    1
+  54.3240        7.3340       1.61310  0.00     36.730    1
+  -45.8350       223.2600     1.00000  0.00     36.730    0

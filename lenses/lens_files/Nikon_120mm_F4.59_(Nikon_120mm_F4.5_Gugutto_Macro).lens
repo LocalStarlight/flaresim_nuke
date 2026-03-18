@@ -1,0 +1,18 @@
+# Nikon 120mm f/4.5 Gugutto Macro
+#
+# Patent: US005764425
+# Converted from photonstophotos.net Optical Bench data
+# 7 surfaces, 3 glass elements, f/4.6
+
+name: Nikon 120mm f/4.5 Gugutto Macro
+focal_length: 120.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  32.2976        6.2000       1.58910  61.09    29.320    1
+  -94.6916       1.4000       1.80380  33.89    29.320    1
+  155.0232       20.0000      1.00000  0.00     24.920    0
+  stop           15.0000      1.00000  0.00     18.385    0
+  0              12.0000      1.00000  0.00     13.640    0
+  -12.9931       6.8000       1.58910  61.09    22.130    1
+  -16.8217       48.7884      1.00000  0.00     24.410    0

@@ -1,0 +1,19 @@
+# Zeiss Tele-Tessar 120mm F6.3
+#
+# Patent: DE00347838
+# Converted from photonstophotos.net Optical Bench data
+# 8 surfaces, 4 glass elements, f/6.3
+
+name: Zeiss Tele-Tessar 120mm F6.3
+focal_length: 120.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  21.7092        3.9948       1.59234  0.00     19.090    1
+  -46.6008       0.1560       1.00000  0.00     19.090    0
+  -44.0148       0.9960       1.59704  0.00     18.700    1
+  46.4880        6.7920       1.00000  0.00     17.740    0
+  stop           21.9000      1.00000  0.00     15.820    0
+  -12.4752       2.2680       1.62410  0.00     15.620    1
+  -11.3112       0.9000       1.49900  0.00     18.760    1
+  -20.5560       59.5500      1.00000  0.00     20.270    0

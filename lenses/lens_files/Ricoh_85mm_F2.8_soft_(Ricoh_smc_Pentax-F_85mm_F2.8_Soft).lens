@@ -1,0 +1,21 @@
+# Ricoh smc Pentax-F 85mm F2.8 Soft
+#
+# Patent: US005267086
+# Converted from photonstophotos.net Optical Bench data
+# 10 surfaces, 5 glass elements, f/2.8
+
+name: Ricoh smc Pentax-F 85mm F2.8 Soft
+focal_length: 85.36
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  30.4150        9.8900       1.65844  50.90    37.940    1
+  401.5180       4.0100       1.78472  25.70    37.940    1
+  55.7660        6.8700       1.00000  0.00     31.460    0
+  stop           5.4100       1.00000  0.00     23.632    0
+  360.3630       2.1200       1.72825  28.50    26.000    1
+  36.6780        3.6900       1.00000  0.00     26.000    0
+  54.5060        5.4600       1.80440  39.60    29.240    1
+  -95.3610       3.5200       1.00000  0.00     29.240    0
+  1003.7950      2.5100       1.51633  64.10    30.260    1
+  118.2270       50.1900      1.00000  0.00     30.260    0

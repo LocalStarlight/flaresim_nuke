@@ -1,0 +1,14 @@
+# Canon 250D (77mm)
+#
+# Patent: JP1995-318801
+# Converted from photonstophotos.net Optical Bench data
+# 3 surfaces, 2 glass elements
+
+name: Canon 250D (77mm)
+focal_length: 243.18
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  90.4790        13.5000      1.60311  60.70    73.240    1
+  -187.3900      4.0000       1.63980  34.50    73.240    1
+  250.6480       225.7000     1.00000  0.00     73.240    0

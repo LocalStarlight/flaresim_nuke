@@ -1,0 +1,21 @@
+# Canon Extender EF1.4X III
+#
+# Patent: US20180095255
+# Converted from photonstophotos.net Optical Bench data
+# 10 surfaces, 7 glass elements
+
+name: Canon Extender EF1.4X III
+focal_length: 50.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  209.2650       1.3500       1.88300  40.76    30.910    1
+  44.2720        5.6700       1.59270  35.31    30.910    1
+  -71.8350       4.5400       1.00000  0.00     30.910    0
+  -89.5180       1.4500       1.74100  52.64    32.320    1
+  41.9200        7.9300       1.61340  44.27    32.320    1
+  -34.9140       1.8000       1.81600  46.62    32.320    1
+  140.7300       0.6100       1.00000  0.00     32.320    0
+  55.3180        5.8300       1.72439  32.05    33.680    1
+  -258.6010      1.6000       1.95906  17.47    33.680    1
+  231.7830       41.6300      1.00000  0.00     33.680    0

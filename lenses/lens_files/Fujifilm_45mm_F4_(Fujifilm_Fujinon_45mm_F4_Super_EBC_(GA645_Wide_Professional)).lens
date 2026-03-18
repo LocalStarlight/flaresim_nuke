@@ -1,0 +1,24 @@
+# Fujifilm Fujinon 45mm F4 Super EBC (GA645 Wide Professional)
+#
+# Patent: US005621575
+# Converted from photonstophotos.net Optical Bench data
+# 13 surfaces, 7 glass elements, f/4.1
+
+name: Fujifilm Fujinon 45mm F4 Super EBC (GA645 Wide Professional)
+focal_length: 45.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  20.9318        1.7820       1.48749  70.40    28.260    1
+  13.3934        10.0800      1.00000  0.00     22.080    0
+  21.7755        5.3280       1.80500  39.60    18.900    1
+  -135.4568      2.2460       1.78472  25.70    17.470    1
+  28.5327        1.5950       1.00000  0.00     11.500    0
+  stop           2.8600       1.00000  0.00     10.932    0
+  55.2650        9.9000       1.77250  49.60    11.850    1
+  -16.1231       1.1970       1.58144  40.80    18.170    1
+  57.3908        1.1790       1.00000  0.00     19.570    0
+  -143.3475      3.0690       1.77250  49.60    19.570    1
+  -28.8747       5.9310       1.00000  0.00     21.610    0
+  -13.3934       1.7820       1.58144  40.80    21.970    1
+  -24.1605       27.4100      1.00000  0.00     27.000    0

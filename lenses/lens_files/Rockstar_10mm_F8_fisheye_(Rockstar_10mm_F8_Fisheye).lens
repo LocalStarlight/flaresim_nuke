@@ -1,0 +1,21 @@
+# Rockstar 10mm F8 Fisheye
+#
+# Patent: CN221175109
+# Converted from photonstophotos.net Optical Bench data
+# 10 surfaces, 5 glass elements, f/8.0
+
+name: Rockstar 10mm F8 Fisheye
+focal_length: 10.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  27.0000        0.8000       1.49700  81.60    12.000    1
+  9.1600         0.9000       1.00000  0.00     9.000     0
+  35.1000        0.5500       1.49700  81.60    10.020    1
+  3.3000         1.1400       1.00000  0.00     5.850     0
+  7.0000         3.4000       1.91000  35.25    6.520     1
+  -12.2000       1.6000       1.84700  23.78    5.020     1
+  16.2000        0.0700       1.00000  0.00     1.610     0
+  stop           0.0400       1.00000  0.00     1.601     0
+  42.4000        2.1500       1.49700  81.60    5.000     1
+  -4.2000        13.5600      1.00000  0.00     5.000     0

@@ -1,0 +1,21 @@
+# Nikon AI Nikkor 135mm f/2.8S
+#
+# Patent: US004057330
+# Converted from photonstophotos.net Optical Bench data
+# 10 surfaces, 5 glass elements, f/2.8
+
+name: Nikon AI Nikkor 135mm f/2.8S
+focal_length: 135.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  56.2010        7.2990       1.62041  60.30    50.080    1
+  405.4000       0.5990       1.00000  0.00     50.080    0
+  38.8500        13.0010      1.62041  60.30    47.020    1
+  83.1510        2.8000       1.00000  0.00     37.540    0
+  213.1330       4.6990       1.78470  26.10    38.060    1
+  -79.1600       1.5000       1.74000  28.20    38.060    1
+  26.4820        6.7500       1.00000  0.00     30.210    0
+  stop           27.9500      1.00000  0.00     28.599    0
+  84.0000        2.2010       1.72825  28.30    27.560    1
+  252.0630       59.5100      1.00000  0.00     27.560    0

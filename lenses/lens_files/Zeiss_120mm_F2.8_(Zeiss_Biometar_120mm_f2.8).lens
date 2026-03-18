@@ -1,0 +1,21 @@
+# Zeiss Biometar 120mm f2.8
+#
+# Patent: US002968221
+# Converted from photonstophotos.net Optical Bench data
+# 10 surfaces, 5 glass elements, f/2.8
+
+name: Zeiss Biometar 120mm f2.8
+focal_length: 120.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  54.9600        8.6400       1.66680  33.10    56.600    1
+  105.4800       0.2040       1.00000  0.00     56.600    0
+  36.3600        12.6000      1.69350  53.50    45.140    1
+  0              3.0000       1.68890  31.10    45.140    1
+  23.0400        12.6000      1.00000  0.00     31.300    0
+  stop           12.4800      1.00000  0.00     28.737    0
+  -21.9600       3.1200       1.72830  28.30    31.870    1
+  -29.1600       0.0960       1.00000  0.00     34.840    0
+  -140.4000      9.7200       1.62040  60.30    43.580    1
+  -33.9600       86.4300      1.00000  0.00     43.580    0

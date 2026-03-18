@@ -1,0 +1,20 @@
+# Fujifilm Fujinon 85mm F4.0 SF EBC
+#
+# Patent: JP1980-000560
+# Converted from photonstophotos.net Optical Bench data
+# 9 surfaces, 4 glass elements, f/2.8
+
+name: Fujifilm Fujinon 85mm F4.0 SF EBC
+focal_length: 85.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  44.2110        6.5450       1.60311  60.70    34.240    1
+  131.5586       4.8400       1.00000  0.00     33.000    0
+  68.3884        9.0600       1.60311  60.70    31.040    1
+  90.3775        3.8250       1.00000  0.00     29.220    0
+  485.9920       2.8200       1.76182  26.50    26.500    1
+  49.8563        2.5685       1.00000  0.00     24.960    0
+  stop           8.6000       1.00000  0.00     22.352    0
+  -855.1308      6.8000       1.60311  60.70    31.180    1
+  -42.8860       62.7000      1.00000  0.00     32.720    0

@@ -1,0 +1,19 @@
+# Nikon AI Nikkor 45mm f/2.8P
+#
+# Patent: JP2003-005030
+# Converted from photonstophotos.net Optical Bench data
+# 8 surfaces, 4 glass elements, f/2.9
+
+name: Nikon AI Nikkor 45mm f/2.8P
+focal_length: 46.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  22.6265        3.9980       1.81600  46.63    17.430    1
+  636.8927       1.5992       1.00000  0.00     17.430    0
+  stop           1.7991       1.00000  0.00     14.068    0
+  -32.7198       1.2994       1.68893  31.07    15.960    1
+  21.1697        3.4983       1.00000  0.00     14.510    0
+  -108.0444      1.2994       1.68893  31.07    16.440    1
+  31.0034        4.3978       1.88300  40.77    16.440    1
+  -25.2907       38.7701      1.00000  0.00     16.440    0

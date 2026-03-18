@@ -1,0 +1,20 @@
+# Rodenstock Geronar-WA 90mm f8
+#
+# Patent: DE03026282
+# Converted from photonstophotos.net Optical Bench data
+# 9 surfaces, 4 glass elements, f/8.0
+
+name: Rodenstock Geronar-WA 90mm f8
+focal_length: 90.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  26.6300        8.8000       1.62070  49.47    34.000    1
+  68.6100        0.1000       1.00000  0.00     32.000    0
+  27.4100        3.6000       1.79180  25.87    26.500    1
+  17.8700        5.5000       1.00000  0.00     16.550    0
+  stop           6.5600       1.00000  0.00     8.530     0
+  -17.3600       2.3300       1.79180  25.87    20.800    1
+  -24.7900       0.1000       1.00000  0.00     28.420    0
+  -86.0600       9.1900       1.62070  49.47    30.620    1
+  -25.5100       73.3600      1.00000  0.00     38.680    0

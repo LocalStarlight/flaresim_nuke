@@ -1,0 +1,19 @@
+# Ricoh smc Pentax 6x7 120mm f3.5 Soft
+#
+# Patent: US004948236
+# Converted from photonstophotos.net Optical Bench data
+# 8 surfaces, 4 glass elements, f/3.5
+
+name: Ricoh smc Pentax 6x7 120mm f3.5 Soft
+focal_length: 120.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  35.0200        9.5200       1.65844  50.90    46.880    1
+  87.7960        3.0100       1.72825  28.50    46.880    1
+  48.6420        9.4300       1.00000  0.00     39.000    0
+  stop           5.0800       1.00000  0.00     27.882    0
+  -293.2200      3.0100       1.72825  28.50    32.680    1
+  54.7960        4.3100       1.00000  0.00     32.680    0
+  75.3700        7.5100       1.80610  40.90    41.840    1
+  -116.6180      91.5480      1.00000  0.00     41.840    0

@@ -1,0 +1,21 @@
+# Olympus Zuiko Auto-Macro 20mm F2
+#
+# Patent: US004431274
+# Converted from photonstophotos.net Optical Bench data
+# 10 surfaces, 6 glass elements, f/2.0
+
+name: Olympus Zuiko Auto-Macro 20mm F2
+focal_length: 20.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  13.7679        1.9000       1.77250  49.66    10.020    1
+  -245.5706      0.1300       1.00000  0.00     10.020    0
+  7.3651         2.3780       1.72916  54.68    8.700     1
+  66.3264        0.7500       1.72825  28.46    7.150     1
+  5.2840         3.9100       1.00000  0.00     6.560     0
+  -5.7866        0.7710       1.77250  49.66    6.140     1
+  49.7944        2.3350       1.62280  57.06    7.030     1
+  -7.9855        0.1090       1.00000  0.00     8.630     0
+  226.6127       2.2800       1.74320  49.31    10.510    1
+  -20.4553       0.0000       1.00000  0.00     10.510    0

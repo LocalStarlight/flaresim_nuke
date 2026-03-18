@@ -1,0 +1,22 @@
+# Meyer Optik Gorlitz 30mm F3.5 Lydith
+#
+# Patent: DE01794971
+# Converted from photonstophotos.net Optical Bench data
+# 11 surfaces, 5 glass elements, f/3.5
+
+name: Meyer Optik Gorlitz 30mm F3.5 Lydith
+focal_length: 30.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  75.3000        2.7900       1.56960  63.10    31.210    1
+  15.9000        16.2000      1.00000  0.00     24.520    0
+  30.6000        4.3200       1.64050  34.50    19.080    1
+  -42.0000       1.1700       1.00000  0.00     19.080    0
+  20.4000        2.8500       1.58870  61.00    13.690    1
+  116.7000       2.0100       1.00000  0.00     11.470    0
+  -28.8000       3.3600       1.76170  26.50    12.520    1
+  16.8000        1.4400       1.00000  0.00     10.010    0
+  stop           1.3500       1.00000  0.00     10.136    0
+  138.3000       4.3800       1.61970  60.40    14.110    1
+  -15.0000       37.7000      1.00000  0.00     14.110    0

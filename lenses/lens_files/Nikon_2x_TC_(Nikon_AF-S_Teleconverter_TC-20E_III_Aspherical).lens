@@ -1,0 +1,23 @@
+# Nikon AF-S Teleconverter TC-20E III Aspherical
+#
+# Patent: JP2010-191211
+# Converted from photonstophotos.net Optical Bench data
+# 12 surfaces, 7 glass elements
+
+name: Nikon AF-S Teleconverter TC-20E III Aspherical
+focal_length: 50.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  41.3650        5.0000       1.62004  36.26    27.720    1
+  -169.8920      0.8000       1.00000  0.00     27.720    0
+  -618.1140      1.5000       1.80400  46.58    26.180    1
+  22.7510        5.4000       1.00000  0.00     24.210    0
+  43.5840        9.0000       1.62004  36.30    26.360    1
+  -19.3860       2.0000       1.88300  40.76    26.360    1
+  35.1570        8.2000       1.57501  41.49    30.000    1
+  -35.1570       2.9000       1.00000  0.00     29.600    0
+  -58.6190       6.4000       1.58913  61.16    31.660    1
+  -28.5670       0.5000       1.00000  0.00     31.660    0
+  -34.4210       2.5000       1.88300  40.76    30.680    1
+  -121.3910      52.5000      1.00000  0.00     31.710    0

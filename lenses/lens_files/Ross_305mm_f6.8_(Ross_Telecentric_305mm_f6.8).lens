@@ -1,0 +1,19 @@
+# Ross Telecentric 305mm f6.8
+#
+# Patent: US001073950
+# Converted from photonstophotos.net Optical Bench data
+# 8 surfaces, 5 glass elements, f/6.8
+
+name: Ross Telecentric 305mm f6.8
+focal_length: 305.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  63.0000        4.5000       1.61240  37.00    46.220    1
+  42.8000        13.4000      1.57330  57.50    46.220    1
+  -107.0000      3.6000       1.57810  41.00    46.220    1
+  282.4000       24.0000      1.00000  0.00     46.220    0
+  stop           26.2000      1.00000  0.00     32.226    0
+  -59.5000       3.6000       1.61180  56.80    45.500    1
+  39.2000        16.0000      1.52020  51.30    45.500    1
+  -92.3000       157.9800     1.00000  0.00     45.500    0

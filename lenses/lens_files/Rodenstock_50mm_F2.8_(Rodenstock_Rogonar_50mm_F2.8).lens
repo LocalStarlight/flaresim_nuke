@@ -1,0 +1,18 @@
+# Rodenstock Rogonar 50mm F2.8
+#
+# Patent: DE02706498
+# Converted from photonstophotos.net Optical Bench data
+# 7 surfaces, 3 glass elements, f/2.8
+
+name: Rodenstock Rogonar 50mm F2.8
+focal_length: 50.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  20.6050        3.6900       1.69400  54.47    21.300    1
+  0              5.5850       1.00000  0.00     18.120    0
+  -28.1750       0.9300       1.67760  31.97    14.430    1
+  19.8750        3.2850       1.00000  0.00     13.900    0
+  stop           3.2250       1.00000  0.00     14.068    0
+  103.2700       2.6250       1.69400  54.52    16.980    1
+  -23.2850       39.7000      1.00000  0.00     15.030    0

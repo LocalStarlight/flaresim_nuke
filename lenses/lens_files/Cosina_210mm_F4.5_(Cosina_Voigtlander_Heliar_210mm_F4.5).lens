@@ -1,0 +1,20 @@
+# Cosina Voigtlander Heliar 210mm F4.5
+#
+# Patent: US002645154
+# Converted from photonstophotos.net Optical Bench data
+# 9 surfaces, 5 glass elements, f/4.5
+
+name: Cosina Voigtlander Heliar 210mm F4.5
+focal_length: 210.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  61.3347        11.3463      1.65953  57.00    53.500    1
+  -177.8679      2.9442       1.60266  38.40    53.500    1
+  0              6.8082       1.00000  0.00     53.500    0
+  -133.6251      2.9442       1.64282  47.90    47.550    1
+  57.0402        8.1585       1.00000  0.00     42.180    0
+  stop           4.2924       1.00000  0.00     39.504    0
+  -509.0715      2.9442       1.60266  38.40    44.620    1
+  49.3731        12.4509      1.66867  47.50    47.230    1
+  -85.2537       181.9230     1.00000  0.00     47.230    0

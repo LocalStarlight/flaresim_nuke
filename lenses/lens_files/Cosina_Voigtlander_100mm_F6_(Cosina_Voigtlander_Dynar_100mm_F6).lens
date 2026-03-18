@@ -1,0 +1,20 @@
+# Cosina Voigtlander Dynar F6
+#
+# Patent: US000765006
+# Converted from photonstophotos.net Optical Bench data
+# 9 surfaces, 5 glass elements, f/6.0
+
+name: Cosina Voigtlander Dynar F6
+focal_length: 100.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  25.8400        4.1700       1.61330  0.00     17.880    1
+  -66.6700       0.4200       1.56980  0.00     17.880    1
+  -166.6500      2.1700       1.00000  0.00     17.880    0
+  -41.7100       0.4200       1.60611  0.00     17.880    1
+  25.9200        2.9500       1.00000  0.00     17.880    0
+  stop           2.3000       1.00000  0.00     14.950    0
+  -65.2600       0.4200       1.53780  0.00     17.880    1
+  27.1600        3.3300       1.61330  0.00     17.880    1
+  -27.9600       93.3000      1.00000  0.00     17.880    0

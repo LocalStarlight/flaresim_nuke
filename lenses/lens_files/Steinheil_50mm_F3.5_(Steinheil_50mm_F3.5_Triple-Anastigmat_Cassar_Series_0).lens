@@ -1,0 +1,18 @@
+# Steinheil 50mm F3.5 Triple-Anastigmat Cassar Series 0
+#
+# Patent: DE00434759
+# Converted from photonstophotos.net Optical Bench data
+# 7 surfaces, 3 glass elements, f/3.5
+
+name: Steinheil 50mm F3.5 Triple-Anastigmat Cassar Series 0
+focal_length: 50.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  20.3400        3.0000       1.60940  0.00     15.070    1
+  -126.4500      3.0200       1.00000  0.00     15.070    0
+  stop           1.7500       1.00000  0.00     12.157    0
+  -21.7700       1.0000       1.61380  0.00     12.580    1
+  20.8350        5.1750       1.00000  0.00     12.580    0
+  206.6000       3.0000       1.60940  0.00     14.670    1
+  -18.4200       41.9800      1.00000  0.00     14.670    0

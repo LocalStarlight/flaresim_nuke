@@ -1,0 +1,20 @@
+# Cosina Voigtlander Tele-Dynar 100mm f6.3
+#
+# Patent: DE00444150
+# Converted from photonstophotos.net Optical Bench data
+# 9 surfaces, 5 glass elements, f/6.3
+
+name: Cosina Voigtlander Tele-Dynar 100mm f6.3
+focal_length: 100.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  23.7000        3.6700       1.61430  56.40    16.870    1
+  -28.8800       1.5700       1.64620  33.90    16.870    1
+  0              7.3500       1.00000  0.00     16.870    0
+  stop           3.6800       1.00000  0.00     11.820    0
+  -39.3900       1.0500       1.58350  41.90    10.920    1
+  22.3700        2.6300       1.00000  0.00     11.550    0
+  186.4400       1.3100       1.61430  56.40    10.660    1
+  52.5200        2.1000       1.64620  33.90    11.650    1
+  -47.3300       63.4600      1.00000  0.00     11.650    0

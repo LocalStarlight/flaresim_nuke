@@ -1,0 +1,14 @@
+# Canon 500D (77mm)
+#
+# Patent: JP1995-318802
+# Converted from photonstophotos.net Optical Bench data
+# 3 surfaces, 2 glass elements
+
+name: Canon 500D (77mm)
+focal_length: 502.65
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  424.3420       6.5000       1.60311  60.70    74.470    1
+  -201.1000      4.0000       1.63980  34.50    74.470    1
+  -846.0750      498.2400     1.00000  0.00     74.470    0

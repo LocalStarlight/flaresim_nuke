@@ -1,0 +1,18 @@
+# Nikon UV-Nikkor 55mm F4
+#
+# Patent: JP1967-009417
+# Converted from photonstophotos.net Optical Bench data
+# 7 surfaces, 3 glass elements, f/4.0
+
+name: Nikon UV-Nikkor 55mm F4
+focal_length: 55.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  19.5580        2.7995       1.53700  64.00    14.700    1
+  -179.8720      5.0930       1.00000  0.00     14.700    0
+  -22.6600       0.8140       1.56818  47.00    12.580    1
+  20.6855        1.3860       1.00000  0.00     11.260    0
+  stop           3.3000       1.00000  0.00     11.312    0
+  92.2845        2.7005       1.53700  64.00    12.580    1
+  -18.6395       47.0500      1.00000  0.00     12.580    0

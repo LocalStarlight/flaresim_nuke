@@ -1,0 +1,20 @@
+# Konica Minolta 135mm F2.8 MD Tele Rokkor
+#
+# Patent: JP1976-062037
+# Converted from photonstophotos.net Optical Bench data
+# 9 surfaces, 4 glass elements, f/2.8
+
+name: Konica Minolta 135mm F2.8 MD Tele Rokkor
+focal_length: 135.00
+
+surfaces:
+# radius       thickness    ior      abbe     semi_ap   coating
+  58.5900        10.1320      1.65830  58.50    49.320    1
+  308.8400       1.5750       1.00000  0.00     49.320    0
+  43.5870        7.1710       1.65830  58.50    46.580    1
+  107.0620       3.1730       1.00000  0.00     46.580    0
+  217.6200       12.3530      1.71736  29.40    42.260    1
+  28.0230        15.4680      1.00000  0.00     30.780    0
+  stop           17.0000      1.00000  0.00     26.181    0
+  122.0550       7.8600       1.73300  28.20    24.040    1
+  1351.2150      56.2900      1.00000  0.00     24.040    0
