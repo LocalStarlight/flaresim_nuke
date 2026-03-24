@@ -74,7 +74,7 @@ under one second per frame for standard HD/2K images.
 **Requirements:**
 - **Platforms:** Windows, Linux
 - **Nuke versions:** 13, 14, 15, 16, 17
-- **GPU:** Any NVIDIA GPU from Maxwell (GTX 900 series, 2014) onwards
+- **GPU:** Any NVIDIA GPU from Maxwell (GTX 900 series, 2014) through Blackwell (RTX 5000 series)
 - **NVIDIA driver:** 525 or newer (built against CUDA Toolkit 12.x)
 
 ---
