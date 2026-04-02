@@ -149,8 +149,11 @@ This is the same problem as above — the path is being added too late (in `menu
 ### "FlareSim appears but says no compatible GPU detected"
 
 - Make sure you have an NVIDIA GPU (AMD and Intel GPUs are not supported).
-- Update your NVIDIA driver to version 525 or newer. You can check your current driver version by right-clicking on the desktop → NVIDIA Control Panel → Help → System Information.
-- If you're on a laptop, make sure Nuke is running on the NVIDIA GPU and not the integrated Intel GPU. In Windows, go to Settings → Display → Graphics, find Nuke in the list, and set it to "High Performance".
+- Update your NVIDIA driver to version 525 or newer.
+
+**Windows:** Check your driver version by right-clicking on the desktop → NVIDIA Control Panel → Help → System Information. If you're on a laptop, make sure Nuke is running on the NVIDIA GPU and not the integrated Intel GPU: go to Settings → Display → Graphics, find Nuke in the list, and set it to "High Performance".
+
+**Linux:** Check your driver version by running `nvidia-smi` in a terminal — it shows the installed driver version in the top-right corner. If the command is not found, the NVIDIA driver is not installed; install it via your distribution's package manager (e.g. `sudo apt install nvidia-driver-535` on Ubuntu) or from [nvidia.com](https://www.nvidia.com/en-us/drivers/). After installing or updating the driver, reboot before launching Nuke.
 
 ### "I already have an init.py with other plugins"
 
